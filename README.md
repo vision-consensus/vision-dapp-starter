@@ -12,8 +12,8 @@
 
 
 ## 主要实现功能
- 1、链接钱包，兼容vtimes钱包和metamask钱包
- 2、合约调用，兼容vtimes钱包和metamsk钱包
+  1. 链接钱包，兼容vtimes钱包和metamask钱包
+  2. 合约调用，兼容vtimes钱包和metamsk钱包
 
 
 ## 持续更新
